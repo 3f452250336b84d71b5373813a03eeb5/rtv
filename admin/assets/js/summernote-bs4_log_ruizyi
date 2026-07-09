@@ -1,0 +1,6 @@
+Line 6118
+			de
+            ' type="file" name="files" accept="image/*" multiple="multiple" />',
+            jusqu'a 
+            ' type="file" name="files" accept="image/*" />',
+            
